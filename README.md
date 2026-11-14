@@ -17,7 +17,7 @@ QuizMaster_AI is an AI-powered quiz management system designed to make learning 
 
 ## Team Members
 - Team Member 1
-- Team Member 2
+- sabbirokbye10@gmail.com
 - Team Member 3
 
 ## Technologies Used
