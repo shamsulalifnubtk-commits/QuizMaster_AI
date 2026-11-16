@@ -18,11 +18,11 @@ QuizMaster_AI is an AI-powered quiz management system designed to make learning 
 ## Team Members
 - Shamsulalifnutk@gmail.com
 - sabbirokbye10@gmail.com
-- 
-- 
+- nafisatasnim189@gmail.com
+- jannatunnaim204@gmail.com
 
 ## Technologies Used
-*frontend:react
+*frontend:react.js
 *backend:django
 *database:my sql
 *ai integration:gemini
