@@ -22,10 +22,10 @@ QuizMaster_AI is an AI-powered quiz management system designed to make learning 
 - 
 
 ## Technologies Used
--frontend:react
--backend:django
--database:my sql
--ai integration:gemini
+*frontend:react
+*backend:django
+*database:my sql
+*ai integration:gemini
 
 ## License
 This project is developed for educational purposes.
