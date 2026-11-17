@@ -86,7 +86,7 @@ This project is being developed as an academic web application project.
 
 ---
 
-**Project Name:** QuizMaster AI  
+**Project Name:* QuizMaster AI  
 **Course:** CSE4104  
 **Section:** 7D  
 **Team:** CSE4104-7D-T03
